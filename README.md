@@ -4,3 +4,5 @@ An interactive Python project for solving the Rubik's Cube puzzle. Dive into wor
 # Solving Rubik's Cube using Python
 
 This project offers Python scripts and algorithms for solving the Rubik's Cube puzzle by iconic challenge programmatically.
+
+test git status
