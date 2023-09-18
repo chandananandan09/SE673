@@ -5,4 +5,4 @@ An interactive Python project for solving the Rubik's Cube puzzle. Dive into wor
 
 This project offers Python scripts and algorithms for solving the Rubik's Cube puzzle by iconic challenge programmatically.
 
-test git status
+test git status on readme file
